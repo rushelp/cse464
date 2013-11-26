@@ -1,7 +1,7 @@
 public class Rectangle extends Shape
 {
 
-
+	//adding this comment for fetching.
    private int length, width;
 
    public Rectangle(int l , int w)
